@@ -1,2 +1,2 @@
-# chrono
+# Chrono
 A simple timezone library
